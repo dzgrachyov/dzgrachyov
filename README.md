@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dzgrachyov
-- 👀 I’m interested in Frontend & Game development
-- 🌱 I’m currently learning Unreal Engine
-- 💞️ I’m looking to collaborate on own game in development
+- 👀 I’m interested in AI & Fullstack & Game Development
 - 📫 How to reach me mail: dzmitry.grachyov@outlook.com
 
 <!---
