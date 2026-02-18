@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dzgrach
+- 👋 Hi, I’m @dzgrachyov
 - 👀 I’m interested in Frontend & Game development
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on own game in development
